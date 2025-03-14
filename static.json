@@ -1,6 +1,0 @@
-{
-  "root": ".",
-  "routes": {
-    "/": "qts-english.html"
-  }
-}
